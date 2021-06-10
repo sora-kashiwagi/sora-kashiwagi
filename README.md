@@ -1,4 +1,6 @@
 ### Hi there 👋
+🔭 I’m currently working on Distributed Systems.
+趣味はアニメです
 
 <!--
 **sora-kashiwagi/sora-kashiwagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
